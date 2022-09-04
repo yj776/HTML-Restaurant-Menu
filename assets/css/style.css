@@ -52,6 +52,10 @@ nav a:hover {
     color: darkred;
 }
 
+nav {
+    width: 100%;
+}
+
 #banner {
     width: 100%;
     height: auto;
@@ -59,7 +63,7 @@ nav a:hover {
 }
 
 #banner img {
-    width: 60%;
+    width: 40%;
     height: auto;
 }
 
@@ -72,6 +76,7 @@ nav a:hover {
     font-size: 2em;
     padding: 20px;
     margin: 10px;
+    text-align: center;
 }
 
 table {
