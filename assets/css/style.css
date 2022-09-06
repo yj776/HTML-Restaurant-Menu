@@ -52,6 +52,18 @@ nav a:hover {
     color: darkred;
 }
 
+#index a:hover{
+    color: blueviolet;
+}
+
+#menu a:hover{
+    color:hotpink;
+}
+
+#about a:hover{
+    color: oran                                                                                                                              gered;
+}
+
 nav {
     width: 100%;
 }
@@ -88,4 +100,17 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+#closed{
+    background-color:red;
+    text-align: center;
+}
+
+#closed>h1{
+    color: white;
+}
+
+footer{
+    background-color: salmon;
 }
